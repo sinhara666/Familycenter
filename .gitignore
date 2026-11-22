@@ -1,0 +1,16 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+
+# Local database (dev only; never commit test family data)
+data/
+
+# Environment files (never commit real tokens)
+.env
+.env*.local
+.env.development
+.env.production
+
+# OS / editor
+.DS_Store
