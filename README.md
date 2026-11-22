@@ -54,4 +54,4 @@ No secret is written into any file in this app.
   from `file://` and any https origin.
 - One pushed snapshot is capped at 512 KB.
 
-First production deploy: pushed to trigger the Vercel build.
+Redeploy with environment variables set on familycommandcenter.
