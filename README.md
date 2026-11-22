@@ -53,3 +53,5 @@ No secret is written into any file in this app.
   on `/family/*` is answered, so the buyer file can call the service
   from `file://` and any https origin.
 - One pushed snapshot is capped at 512 KB.
+
+First production deploy: pushed to trigger the Vercel build.
